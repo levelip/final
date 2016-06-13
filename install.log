@@ -1,0 +1,273 @@
+centos
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.greenmountainaccess.net
+ * epel: ftp.osuosl.org
+ * extras: centos.mirror.constant.com
+ * updates: mirror.net.cen.ct.gov
+Package 14:libpcap-1.5.3-8.el7.x86_64 already installed and latest version
+Nothing to do
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirrors.greenmountainaccess.net
+ * epel: ftp.osuosl.org
+ * extras: centos.mirror.constant.com
+ * updates: mirror.net.cen.ct.gov
+Package iptables-1.4.21-16.el7.x86_64 already installed and latest version
+Nothing to do
+wget: missing URL
+Usage: wget [OPTION]... [URL]...
+
+Try `wget --help' for more options.
+ Run wget success
+
+openjdk version "1.8.0_91"
+OpenJDK Runtime Environment (build 1.8.0_91-b14)
+OpenJDK 64-Bit Server VM (build 25.91-b14, mixed mode)
+ Run java success
+
+UnZip 6.00 of 20 April 2009, by Info-ZIP.  Maintained by C. Spieler.  Send
+bug reports using http://www.info-zip.org/zip-bug.html; see README for details.
+
+Usage: unzip [-Z] [-opts[modifiers]] file[.zip] [list] [-x xlist] [-d exdir]
+  Default action is to extract files in list, except those in xlist, to exdir;
+  file[.zip] may be a wildcard.  -Z => ZipInfo mode ("unzip -Z" for usage).
+
+  -p  extract files to pipe, no messages     -l  list files (short format)
+  -f  freshen existing files, create none    -t  test compressed archive data
+  -u  update files, create if necessary      -z  display archive comment only
+  -v  list verbosely/show version info       -T  timestamp archive to latest
+  -x  exclude files that follow (in xlist)   -d  extract files into exdir
+modifiers:
+  -n  never overwrite existing files         -q  quiet mode (-qq => quieter)
+  -o  overwrite files WITHOUT prompting      -a  auto-convert any text files
+  -j  junk paths (do not make directories)   -aa treat ALL files as text
+  -U  use escapes for all non-ASCII Unicode  -UU ignore any Unicode fields
+  -C  match filenames case-insensitively     -L  make (some) names lowercase
+  -X  restore UID/GID info                   -V  retain VMS version numbers
+  -K  keep setuid/setgid/tacky permissions   -M  pipe through "more" pager
+See "unzip -hh" or unzip.txt for more help.  Examples:
+  unzip data1 -x joe   => extract all files except joe from zipfile data1.zip
+  unzip -p foo | more  => send contents of foo.zip via pipe into program more
+  unzip -fo foo ReadMe => quietly replace existing ReadMe if archive file newer
+ Run unzip success
+
+Download software...
+--2016-06-12 01:06:27--  http://soli-10006287.file.myqcloud.com/finalspeed_server.zip
+Resolving soli-10006287.file.myqcloud.com (soli-10006287.file.myqcloud.com)... 124.161.253.18, 220.195.19.19, 42.56.65.20, ...
+Connecting to soli-10006287.file.myqcloud.com (soli-10006287.file.myqcloud.com)|124.161.253.18|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2429776 (2.3M) [application/octet-stream]
+Saving to: ‘finalspeed_server.zip’
+
+     0K .......... .......... .......... .......... ..........  2%  133K 17s
+    50K .......... .......... .......... .......... ..........  4%  134K 17s
+   100K .......... .......... .......... .......... ..........  6% 11.3M 11s
+   150K .......... .......... .......... .......... ..........  8%  138K 12s
+   200K .......... .......... .......... .......... .......... 10%  200M 9s
+   250K .......... .......... .......... .......... .......... 12% 1.05M 8s
+   300K .......... .......... .......... .......... .......... 14%  151K 9s
+   350K .......... .......... .......... .......... .......... 16%  625M 7s
+   400K .......... .......... .......... .......... .......... 18% 1.05M 7s
+   450K .......... .......... .......... .......... .......... 21% 69.2K 8s
+   500K .......... .......... .......... .......... .......... 23% 30.9M 7s
+   550K .......... .......... .......... .......... .......... 25% 11.4M 7s
+   600K .......... .......... .......... .......... .......... 27% 1.17M 6s
+   650K .......... .......... .......... .......... .......... 29%  253M 6s
+   700K .......... .......... .......... .......... .......... 31%  106M 5s
+   750K .......... .......... .......... .......... .......... 33%  158K 5s
+   800K .......... .......... .......... .......... .......... 35% 9.56M 5s
+   850K .......... .......... .......... .......... .......... 37% 1.07M 4s
+   900K .......... .......... .......... .......... .......... 40%  156K 4s
+   950K .......... .......... .......... .......... .......... 42% 10.2M 4s
+  1000K .......... .......... .......... .......... .......... 44% 1.03M 4s
+  1050K .......... .......... .......... .......... .......... 46%  154K 4s
+  1100K .......... .......... .......... .......... .......... 48% 10.4M 4s
+  1150K .......... .......... .......... .......... .......... 50%  128K 4s
+  1200K .......... .......... .......... .......... .......... 52%  133K 4s
+  1250K .......... .......... .......... .......... .......... 54% 21.3M 3s
+  1300K .......... .......... .......... .......... .......... 56%  180M 3s
+  1350K .......... .......... .......... .......... .......... 59%  352M 3s
+  1400K .......... .......... .......... .......... .......... 61%  954K 3s
+  1450K .......... .......... .......... .......... .......... 63%  150K 3s
+  1500K .......... .......... .......... .......... .......... 65% 5.63M 2s
+  1550K .......... .......... .......... .......... .......... 67%  114K 2s
+  1600K .......... .......... .......... .......... .......... 69%  409M 2s
+  1650K .......... .......... .......... .......... .......... 71%  145K 2s
+  1700K .......... .......... .......... .......... .......... 73%  926K 2s
+  1750K .......... .......... .......... .......... .......... 75%  173M 2s
+  1800K .......... .......... .......... .......... .......... 77%  157K 2s
+  1850K .......... .......... .......... .......... .......... 80%  133K 2s
+  1900K .......... .......... .......... .......... .......... 82%  796K 1s
+  1950K .......... .......... .......... .......... .......... 84%  141K 1s
+  2000K .......... .......... .......... .......... .......... 86%  144K 1s
+  2050K .......... .......... .......... .......... .......... 88%  778K 1s
+  2100K .......... .......... .......... .......... .......... 90% 67.2K 1s
+  2150K .......... .......... .......... .......... .......... 92%  219M 1s
+  2200K .......... .......... .......... .......... .......... 94%  139K 0s
+  2250K .......... .......... .......... .......... .......... 96%  144K 0s
+  2300K .......... .......... .......... .......... .......... 99%  131K 0s
+  2350K .......... .......... ..                              100%  632K=8.8s
+
+2016-06-12 01:06:39 (270 KB/s) - ‘finalspeed_server.zip’ saved [2429776/2429776]
+
+Archive:  finalspeed_server.zip
+  inflating: /fs/fs.jar              
+  inflating: /fs/start.sh            
+  inflating: /fs/stop.sh             
+  inflating: /fs/restart.sh          
+
+Usage:
+ kill [options] <pid|name> [...]
+
+Options:
+ -a, --all              do not restrict the name-to-pid conversion to processes
+                        with the same uid as the present process
+ -s, --signal <sig>     send specified signal
+ -q, --queue <sig>      use sigqueue(2) rather than kill(2)
+ -p, --pid              print pids without signaling them
+ -l, --list [=<signal>] list signal names, or convert one to a name
+ -L, --table            list signal names and numbers
+
+ -h, --help     display this help and exit
+ -V, --version  output version information and exit
+
+For more details see kill(1).
+FinalSpeed start,log file: /fs/server.log
+
+FinalSpeed server starting... 
+System Name: linux
+Listen udp port: 150
+Listen tcp port: 150
+Network Interface List: 
+     eth0
+  USB bus number 1   usbmon1
+  Pseudo-device that captures on all interfaces   any
+     lo
+Selected Network Interface:
+     eth0
+FinalSpeed server start success.
+接收第一次握手 218.88.237.243:-5065->45.63.22.30:150 ident 29429
+[Ethernet Header (14 bytes)]
+  Destination address: 56:00:00:29:0b:d7
+  Source address: fe:00:00:29:0b:d7
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 52 [bytes]
+  Identification: 29429
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 48
+  Protocol: 6 (TCP)
+  Header checksum: 0xcc25
+  Source address: /218.88.237.243
+  Destination address: /45.63.22.30
+[TCP Header (32 bytes)]
+  Source port: 60471 (unknown)
+  Destination port: 150 (SQL-NET)
+  Sequence Number: 2548366702
+  Acknowledgment Number: 0
+  Data Offset: 8 (32 [bytes])
+  Reserved: 0
+  URG: false
+  ACK: false
+  PSH: false
+  RST: false
+  SYN: true
+  FIN: false
+  Window: 65535
+  Checksum: 0xe15b
+  Urgent Pointer: 0
+  Option: [Kind: 2 (Maximum Segment Size)] [Length: 4 bytes] [Maximum Segment Size: 1440 bytes]
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 3 (Window Scale)] [Length: 3 bytes] [Shift Count: 6]
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 4 (SACK Permitted)] [Length: 2 bytes]
+
+发送第二次握手 56:00:00:29:0b:d7->fe:00:00:29:0b:d7 /45.63.22.30-> ident 0
+[Ethernet Header (14 bytes)]
+  Destination address: fe:00:00:29:0b:d7
+  Source address: 56:00:00:29:0b:d7
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 52 [bytes]
+  Identification: 0
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 64
+  Protocol: 6 (TCP)
+  Header checksum: 0x2f1b
+  Source address: /45.63.22.30
+  Destination address: /218.88.237.243
+[TCP Header (32 bytes)]
+  Source port: 150 ()
+  Destination port: 60471 ()
+  Sequence Number: 2033007040
+  Acknowledgment Number: 2548366703
+  Data Offset: 8 (32 [bytes])
+  Reserved: 0
+  URG: false
+  ACK: true
+  PSH: false
+  RST: false
+  SYN: true
+  FIN: false
+  Window: 65535
+  Checksum: 0x2e5d
+  Urgent Pointer: 0
+  Option: [Kind: 2 (Maximum Segment Size)] [Length: 4 bytes] [Maximum Segment Size: 1440 bytes]
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 4 (SACK Permitted)] [Length: 2 bytes]
+  Option: [Kind: 1 (No Operation)]
+  Option: [Kind: 3 (Window Scale)] [Length: 3 bytes] [Shift Count: 6]
+
+接收第三次握手  ident 29430
+[Ethernet Header (14 bytes)]
+  Destination address: 56:00:00:29:0b:d7
+  Source address: fe:00:00:29:0b:d7
+  Type: 0x0800 (IPv4)
+[IPv4 Header (20 bytes)]
+  Version: 4 (IPv4)
+  IHL: 5 (20 [bytes])
+  TOS: [precedence: 0 (Routine)] [tos: 0 (Default)] [mbz: 0]
+  Total length: 40 [bytes]
+  Identification: 29430
+  Flags: (Reserved, Don't Fragment, More Fragment) = (false, true, false)
+  Fragment offset: 0 (0 [bytes])
+  TTL: 48
+  Protocol: 6 (TCP)
+  Header checksum: 0xcc30
+  Source address: /218.88.237.243
+  Destination address: /45.63.22.30
+[TCP Header (20 bytes)]
+  Source port: 60471 (unknown)
+  Destination port: 150 (SQL-NET)
+  Sequence Number: 2548366703
+  Acknowledgment Number: 2033007041
+  Data Offset: 5 (20 [bytes])
+  Reserved: 0
+  URG: false
+  ACK: true
+  PSH: false
+  RST: false
+  SYN: false
+  FIN: false
+  Window: 65535
+  Checksum: 0x6f1a
+  Urgent Pointer: 0
+
+delay_tcp 280ms 218.88.237.243:60471
+delay_tcp 279ms 218.88.237.243:60471
+delay_tcp 281ms 218.88.237.243:60471
+delay_tcp 281ms 218.88.237.243:60471
+delay_tcp 281ms 218.88.237.243:60471
+delay_tcp 280ms 218.88.237.243:60471
+delay_tcp 280ms 218.88.237.243:60471
