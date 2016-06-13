@@ -5,7 +5,8 @@ git clone https://github.com/madeye/shadowsocks-libev.git
 cd shadowsocks-libev
 ./configure
 make && make install
-curl "https://raw.githubusercontent.com/xiaoyawl/OneInStack/master/init.d/Shadowsocks-init" -o  /etc/init.d/shadowsocks
+#curl "https://raw.githubusercontent.com/xiaoyawl/OneInStack/master/init.d/Shadowsocks-init" -o  /etc/init.d/shadowsocks
+yes | cp shadowsocks /etc/init.d/shadowsocks
 chmod +x /etc/init.d/shadowsocks
 chkconfig --add shadowsocks
 chkconfig shadowsocks on
